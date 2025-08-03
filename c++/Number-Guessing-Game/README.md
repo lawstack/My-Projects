@@ -2,7 +2,7 @@
 This is a solution to [Number Guessing Game](https://roadmap.sh/projects/number-guessing-game)
 
 ## Overview
-This project is designed for beginners with a basic understanding of C++ concepts and focuses on practicing logical thinking skills.
+This project is designed for beginners with a basic understanding of C++ concepts, focusing on developing logical thinking skills.
 
 ## What I learn
 I learn functions, looping, and conditional statements. 
@@ -45,10 +45,11 @@ C++
 - You should have a c++ compiler or c++ ide.
 
 ## Links
-Solution URL: - (https://github.com/lawstack/My-roadmap.sh-solution/tree/main/c%2B%2B/Number-Guessing-Game)
+Solution URL: (https://github.com/lawstack/My-roadmap.sh-solution/tree/main/c%2B%2B/Number-Guessing-Game)
 
 
 ## Author
 Mark Lawrence Vitto
 
 - Github - [@lawstack](https://github.com/lawstack)
+
