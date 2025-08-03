@@ -45,11 +45,12 @@ C++
 - You should have a c++ compiler or c++ ide.
 
 ## Links
-Solution URL: (https://github.com/lawstack/My-roadmap.sh-solution/tree/main/c%2B%2B/Number-Guessing-Game)
+Solution URL: (https://github.com/lawstack/My-roadmap.sh-solution)
 
 
 ## Author
 Mark Lawrence Vitto
 
 - Github - [@lawstack](https://github.com/lawstack)
+
 
