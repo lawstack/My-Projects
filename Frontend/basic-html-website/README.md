@@ -18,10 +18,6 @@ Practice using HTML tags andbecome familiar with their purposes and usage.
 ## How to use
 Download or clone the repository.
 
-
-## Links
-- Solution URL : (https://github.com/lawstack/Basic-HTML-Website)
-
 ## ✍️ Author
  Mark Lawrence Vitto
 Github - [@lawstack] (https://github.com/lawstack)
