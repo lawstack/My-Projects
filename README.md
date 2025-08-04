@@ -1,7 +1,5 @@
-# roadmap.sh solution
+# solution
 
 - [C++]
-- [Frontend]
 
-# Frontend Mentor Solution
-- 
+- [Frontend]
