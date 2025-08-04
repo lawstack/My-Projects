@@ -45,7 +45,7 @@ C++
 - You should have a c++ compiler or c++ ide.
 
 ## Links
-Solution URL: - ([https://github.com/lawstack/CPP-Number-Guessing-Gam](https://github.com/lawstack/my-roadmap.sh-solutions/tree/main/C%2B%2B/CPP-Number-Guessing-Game))
+Solution URL: - (https://github.com/lawstack/my-roadmap.sh-solutions/tree/main/C%2B%2B/CPP-Number-Guessing-Game)
 
 
 ## Author
