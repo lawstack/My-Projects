@@ -5,5 +5,6 @@
 ##### Projects
 - [Number Guessing Game](https://roadmap.sh/projects/number-guessing-game) - [solution](https://github.com/lawstack/my-roadmap.sh-solutions/tree/main/C%2B%2B/CPP-Number-Guessing-Game)
 
-#### [Frontend]
+#### [Frontend](https://github.com/lawstack/my-roadmap.sh-solutions/tree/main/Frontend)
 ##### Projects
+- [Basic HTML Website](https://roadmap.sh/projects/basic-html-website) - [solution](https://github.com/lawstack/my-roadmap.sh-solutions/tree/main/Frontend/basic-html-website)
